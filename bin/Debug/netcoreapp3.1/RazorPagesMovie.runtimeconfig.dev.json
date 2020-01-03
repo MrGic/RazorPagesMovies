@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gic.WEBTOPONE\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gic.WEBTOPONE\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
